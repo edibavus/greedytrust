@@ -7,7 +7,7 @@
 - Kunjungi https://www.npmjs.com untuk membuat akun
 
 - Ini file package.json, formatnya
-  - name => @username_npm/tea-xyz-quest 
+  - name => @nama_repositori
   - author => @username_npm
   - repository => tautan ke repo github yang baru saja dibuat
 
